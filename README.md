@@ -10,8 +10,7 @@ I enjoy working across the stack — from designing APIs and database models to 
 
 **Frontend**
 - JavaScript / TypeScript
-- HTML, CSS
-- React, Angular, VueJS
+- Angular, React, VueJS
 
 **Backend**
 - Node.js, NestJS, Express
@@ -31,17 +30,10 @@ I enjoy working across the stack — from designing APIs and database models to 
 
 ## 🚀 Featured Projects
 
-- **Blum-Chat**  
-  Real-time chat application with WebSockets, authentication, and message persistence.
+- **Mongo Archiver**  
+  Production-ready CLI for archiving MongoDB documents from one collection or cluster to another. Built for reliability, resumability, verification, and safe optional deletion.
+  https://www.npmjs.com/package/mongo-archiver
 
-- **Udagram Microservices**  
-  Microservices-based application built with TypeScript, Docker, and REST APIs.
-
-- **Serverless Udacity App**  
-  Full-stack serverless application using TypeScript and cloud functions.
-
-- **Image-Filter API**  
-  Backend image processing service demonstrating clean API design and error handling.
 
 ---
 
